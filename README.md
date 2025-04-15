@@ -1,2 +1,2 @@
 # MyRepo
-Auther sidously
+Auther sidiously
